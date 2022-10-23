@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+# misc
+.idea
+.cache
+.vscode
+build
+cmake-build-debug
+cmake-build-release
+compile_commands.json
+imgui.ini
+
